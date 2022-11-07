@@ -1,3 +1,5 @@
 Esta es una forma de escribir texto.
 Me llamo Eduardo, soy desarrollador Front end.
 Tengo 25 años y vivo en mexico
+
+En camara parece alto
