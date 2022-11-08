@@ -1,3 +1,4 @@
+
 body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -25,4 +26,9 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#footer {
+    border-bottom: 1px solid red;
+    font-size: 30px;
 }
